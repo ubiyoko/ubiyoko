@@ -1,5 +1,6 @@
 <div align="center">
-    <img src=https://files.catbox.moe/ct1ihn.gif alt="Animated Demo" width="500">
+    <img src=![Uploading ac5b153c-ceb5-4fb5-b6f0-cef4b14961fa.png…]()
+ width="500">
   </div>
 <!--
 **ubiyoko/ubiyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
