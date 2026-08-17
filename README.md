@@ -1,4 +1,4 @@
-![App Demo](https://files.catbox.moe/ct1ihn.gif)
+-> ![App Demo](https://files.catbox.moe/ct1ihn.gif) <-
 <!--
 **ubiyoko/ubiyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
