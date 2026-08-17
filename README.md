@@ -1,4 +1,4 @@
-<img src="[https://example.com](https://watermelon.crd.co/assets/images/gallery16/7cb5abde.png?v=14238bdb)" width="500">
+<img src="[(https://files.catbox.moe/ct1ihn.gif)](https://files.catbox.moe/ct1ihn.gif))" width="500">
 
 
 <!--
