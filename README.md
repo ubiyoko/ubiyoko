@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=(https://cdn.discordapp.com/attachments/1145289190796435508/1538869896547667968/ac5b153c-ceb5-4fb5-b6f0-cef4b14961fa.png?ex=6a843fc6&is=6a82ee46&hm=e2c2447b5b9d85fd1e132d98f901b4f0bc7fb2da6ab8abb5c24c48b66b70fd8f) alt="App Dashboard Preview" width="500">
+    <img src=https://cdn.discordapp.com/attachments/1145289190796435508/1538869896547667968/ac5b153c-ceb5-4fb5-b6f0-cef4b14961fa.png?ex=6a843fc6&is=6a82ee46&hm=e2c2447b5b9d85fd1e132d98f901b4f0bc7fb2da6ab8abb5c24c48b66b70fd8f alt="App Dashboard Preview" width="500">
   </div>
 <!--
 **ubiyoko/ubiyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
