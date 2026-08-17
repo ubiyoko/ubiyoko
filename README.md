@@ -1,4 +1,4 @@
-<img src="[(https://files.catbox.moe/ct1ihn.gif)](https://files.catbox.moe/ct1ihn.gif))" width="500">
+<img src="[(https://files.catbox.moe/ct1ihn.gif)])" width="500">
 
 
 <!--
