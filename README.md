@@ -19,7 +19,7 @@
 </p>
 <p align="center">
   <img src="https://64.media.tumblr.com/aa1765103b968193dc8f6608e7d2c0e4/f68b1ecfcc71eb9c-47/s250x400/d6948570415660dce62743de7793b646668bcbcf.gif" width="20%">
-  <img src="https://64.media.tumblr.com/7976a4ce6d9043b60ebe44c18e59499b/22d0b2d726f99165-de/s400x600/ad35ecee9e34f90a9b70f064723919c9d8b9c8f1.jpg" width="20%">
+  <img src="https://neckdoll.zombie.jp/material/banner/sakura/banner-sakura-ws1.gif" width="20%">
   <img src="https://64.media.tumblr.com/4c5ad53c77fc4d3217e2b6f950767b2e/22d0b2d726f99165-38/s400x600/40473e380ca3a3f9a52b96defcef091328765279.jpg" width="20%">
 </p>
 <!--
