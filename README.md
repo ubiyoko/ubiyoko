@@ -8,14 +8,14 @@
   <img src=https://cdn.discordapp.com/attachments/1145289190796435508/1539957273420496916/ac5b153c-ceb5-4fb5-b6f0-cef4b14961fa_1.png?ex=6a883479&is=6a86e2f9&hm=7f53e118a5238653c54c39d5025f609b8bb292434aea85a7472cb394373cce01 width="500">
   </div>
   <p align="center">
-  <img src="https://y2k.neocities.org/blinkiez/tumblr_inline_paqwsiY9ZF1sgdnm9_540.gif" width="30%">
-  <img src="https://y2k.neocities.org/blinkiez/tumblr_p4j0o4irhX1tganp7o3_250.gif" width="30%">
-  <img src="https://64.media.tumblr.com/465097f001a899eab4c40875a1b2bed5/01424bad4c7c2b42-6c/s250x400/77282d4e7f1d95c5a95b15a3ed404523ad286a7e.gifv" width="30%">
+  <img src="https://y2k.neocities.org/blinkiez/tumblr_inline_paqwsiY9ZF1sgdnm9_540.gif" width="20%">
+  <img src="https://y2k.neocities.org/blinkiez/tumblr_p4j0o4irhX1tganp7o3_250.gif" width="20%">
+  <img src="https://64.media.tumblr.com/465097f001a899eab4c40875a1b2bed5/01424bad4c7c2b42-6c/s250x400/77282d4e7f1d95c5a95b15a3ed404523ad286a7e.gifv" width="20%">
 </p>
 <p align="center">
-  <img src="https://64.media.tumblr.com/e673de65032e80b6d5561cbdfb730d92/f68b1ecfcc71eb9c-a4/s250x400/b353dd85f3a54ba24aa8e90a9a7609aef6a93c3d.jpg" width="30%">
-  <img src="https://64.media.tumblr.com/9951827e94752a18d2e7d86f9a9aa654/f68b1ecfcc71eb9c-82/s250x400/625dfc6380060b18476eb77be517220d73bec8f9.jpg" width="30%">
-  <img src="https://64.media.tumblr.com/fc5fd781dd6120aa3488f30ee8474c7b/8ce4d6f10b924b57-5d/s400x600/50c4ec66415494cad52264ebf3e1cf2b5babc02f.pnj" width="30%">
+  <img src="https://64.media.tumblr.com/e673de65032e80b6d5561cbdfb730d92/f68b1ecfcc71eb9c-a4/s250x400/b353dd85f3a54ba24aa8e90a9a7609aef6a93c3d.jpg" width="20%">
+  <img src="https://64.media.tumblr.com/9951827e94752a18d2e7d86f9a9aa654/f68b1ecfcc71eb9c-82/s250x400/625dfc6380060b18476eb77be517220d73bec8f9.jpg" width="20%">
+  <img src="https://64.media.tumblr.com/fc5fd781dd6120aa3488f30ee8474c7b/8ce4d6f10b924b57-5d/s400x600/50c4ec66415494cad52264ebf3e1cf2b5babc02f.pnj" width="20%">
 </p>
 <!--
 -->
