@@ -12,5 +12,10 @@
   <img src="https://y2k.neocities.org/blinkiez/tumblr_p4j0o4irhX1tganp7o3_250.gif" width="30%">
   <img src="https://64.media.tumblr.com/465097f001a899eab4c40875a1b2bed5/01424bad4c7c2b42-6c/s250x400/77282d4e7f1d95c5a95b15a3ed404523ad286a7e.gifv" width="30%">
 </p>
+<p align="center">
+  <img src="https://tomboyish.neocities.org/images/blinkees/toromi.gif" width="30%">
+  <img src="https://files.catbox.moe/jswqts.gif" width="30%">
+  <img src="https://64.media.tumblr.com/fc5fd781dd6120aa3488f30ee8474c7b/8ce4d6f10b924b57-5d/s400x600/50c4ec66415494cad52264ebf3e1cf2b5babc02f.pnj" width="30%">
+</p>
 <!--
 -->
