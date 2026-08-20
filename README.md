@@ -7,6 +7,10 @@
   <div align="center">
   <img src=https://cdn.discordapp.com/attachments/1145289190796435508/1539957273420496916/ac5b153c-ceb5-4fb5-b6f0-cef4b14961fa_1.png?ex=6a883479&is=6a86e2f9&hm=7f53e118a5238653c54c39d5025f609b8bb292434aea85a7472cb394373cce01 width="500">
   </div>
-  <img src=https://y2k.neocities.org/blinkiez/tumblr_inline_paqwsiY9ZF1sgdnm9_540.gif width="200"> <img src=https://y2k.neocities.org/blinkiez/tumblr_p4j0o4irhX1tganp7o3_250.gif width="200">
+  <p align="center">
+  <img src="https://y2k.neocities.org/blinkiez/tumblr_inline_paqwsiY9ZF1sgdnm9_540.gif" width="30%">
+  <img src="https://y2k.neocities.org/blinkiez/tumblr_p4j0o4irhX1tganp7o3_250.gif" width="30%">
+  <img src="https://64.media.tumblr.com/465097f001a899eab4c40875a1b2bed5/01424bad4c7c2b42-6c/s250x400/77282d4e7f1d95c5a95b15a3ed404523ad286a7e.gifv" width="30%">
+</p>
 <!--
 -->
