@@ -4,7 +4,7 @@
   <div align="center">
   <img src=https://cdn.discordapp.com/attachments/1145289190796435508/1540093453416009849/Untitled265_20260821015109.png?ex=6a88b34c&is=6a8761cc&hm=9f711e6c58c29803253d05705cca08ff1863f799694cc2b515fb36cdab19e21b width="300">
   </div>
-$$\color{#FFBFD4}{\textsf{hihi}}$$
+$$\color{#FFBFD4}{\textsf{This text uses a custom Hex color code}}$$hihi
   
   <div align="center">
   <img src=https://cdn.discordapp.com/attachments/1145289190796435508/1539957273420496916/ac5b153c-ceb5-4fb5-b6f0-cef4b14961fa_1.png?ex=6a883479&is=6a86e2f9&hm=7f53e118a5238653c54c39d5025f609b8bb292434aea85a7472cb394373cce01 width="500">
