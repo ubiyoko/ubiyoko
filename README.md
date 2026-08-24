@@ -4,7 +4,7 @@
   <div align="center">
   <img src=https://cdn.discordapp.com/attachments/1145289190796435508/1540093453416009849/Untitled265_20260821015109.png?ex=6a88b34c&is=6a8761cc&hm=9f711e6c58c29803253d05705cca08ff1863f799694cc2b515fb36cdab19e21b width="400">
   </div>
-  $${\color{#3D1537}♡     ﹒       ୨୧    ﹒     ✦}$$
+$${\color{#3D1537}♡\ ﹒\ ୨୧\ ﹒\ ✦}$$
   
 $${\color{#FFBAE4}Nora\ / Kasumi}$$
 
