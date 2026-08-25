@@ -7,7 +7,7 @@
   
 $${\color{#3D1537}♡\ ﹒\ ୨୧\ ﹒\ ✦}$$
   $${\color{#FFBAE4}Nora\ / Kasumi}$$
-  $${\color{#FFBAE4}⺌\ __anyprns__}$$ $${\color{#3D1537}‿‿\ 8teen}$$
+  $${\color{#FFBAE4}__any\ prns__}$$ $${\color{#3D1537}‿‿\ 8teen}$$
 
 
   <div align="center">
