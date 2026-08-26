@@ -9,7 +9,7 @@
   <div align="right">
     
 $${\color{#3D1537}♡\ ﹒\ ୨୧\ ﹒\ ✦}$$
-  $${\color{#FFBAE4}Nora\ / Kasumi}$$
+  $${\color{#FFBAE4}Reisu\ / Kasumi}$$
   $${\color{#FFBAE4}__any\ prns__}$$ $${\color{#3D1537}‿‿\ 8teen}$$
  
   </div>
